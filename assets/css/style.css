@@ -4,3 +4,55 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+    1. Position
+    2. Size (width, height)
+    3. Color
+    4. Shape
+*/
+#main {
+}
+
+#header {
+    height: 46px;
+    background-color: #000;
+}
+
+#nav {
+
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+    display: inline-block;
+}
+
+#nav li:hover a {
+    color: #000;
+    background-color: #ccc;
+}
+
+#nav .sub-nav {
+    display: none;
+}
+
+#slider {
+}
+
+#content {
+}
+
+#footer {
+}

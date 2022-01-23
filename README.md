@@ -13,4 +13,4 @@ This project was created to practice HTML and CSS
     - Image
 4. Footer
 
-# CREATE PROJECT'S BASE STRUCTURE
+## CREATE PROJECT'S BASE STRUCTURE
